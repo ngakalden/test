@@ -1,0 +1,146 @@
+﻿Audience Interview: Treva Fairman
+
+
+💡Quick context: We are interviewing potential users of Kimedics. Possible segments:
+* Healthcare Organizations (i.e. Physician Groups)
+* Staffing agencies (that staff for large Physician Groups)
+	
+
+
+
+
+
+Airtable Database
+	
+
+Introduction:
+Hi my name is ________ and thank you so much for participating in our research! I work for a research firm called DemandMaven and I’ll be your interviewer today. We’re conducting research on behalf of a client to learn more about how folks just like you are managing your workforce, how you schedule your workforce, track time, and manage the operations of the workforce.
+
+
+This is definitely not a test; there are no wrong answers. I also may ask some follow-up questions though just to make sure I understand - we just ask for your brutally honest feedback. Some of the questions are kind of weird, but just do your best!
+
+
+Before we begin, do you mind if I hit record on today’s call, just for note-taking purposes?
+
+
+Tell me about yourself.
+COO Ascend beharvior - autism. 1 on 1 therapy services. Clients get in home services, provide diagnosing, provide mental health services for family. 
+Please describe your role. Role
+* How long have they been in this role?
+      * 1.5 years, but working with kids over 20
+* What responsibilities? 
+      * Executive team reports to her, HR, ops, ABA services, care int.
+                        Overall ops to provide quality services, budget, profit. 
+* How many people are on your team?
+      * 6 direct reports
+   * How many people are in the company?
+      * 200
+* What success metrics are you most aligned to?
+        Finance - budgeted revenue. Looking for high graduation rate. Wants kids to get in as quickly as possible. Graduate within 2 or so years. Be in school at some point. Employee retention. 
+
+
+Warmup questions into the job.
+* How many providers/doctors are included in your organization (or the organization’s you’re staffing for?
+   * Family/mental health - 3
+   * Psych - 3
+   * Aba - 25
+* How many locations does the organization have?
+   * Ops in 3 states, lots of in-home services. Also has a clinic location in each of those states. 
+How do you currently manage the workforce?  Current Process
+Behaviour techs who are one-on-one, 120 of them. Is bulk of the workforce who reports into operations team/scheduling team.
+* How do you get resources scheduled? Schedulers. Current system is lumery, employees are scheduled through app.
+* How do you manage your float pool? Don’t really have anything like that. Turnover is high. Min. reqs are just high school grads. Diff to keep them because it’s challenging. Working with temp firm. Have to go through internal training. RBT is formal training, but that cred is rare. Then training is a week. If not, 3 weeks.
+* How do you time track? Tracked through Lumery. Billing and Scheduling. Sessions through.
+
+
+When managing workforce operations, what are you trying to accomplish?  Desired Outcomes
+Has a director of workforce ops who matches client to employee. Biggest challenge in managing workforce. Usually hiring for a sp location. Each beh an. Hired 10 clients. Needs oversight of clinicians. Capacity. 
+
+
+Walk me through your day to day of managing operations for your healthcare organization.  Current Process
+* Walk me through each of the steps. 
+
+
+VP responsible for the day-to-day, but she is also involved. Takes a look at pipeline of clients coming in the door. Intake team gauges how many people are referred by psych. How many kids are waiting, as well as discharges. Hiring. Looking at capacity for service. iF not enough, trying to hire. 2-3 months
+Does anything give you anxiety about managing workforce operations? Anything you dread doing?  Struggle Moment
+It can take a long time to get a child started since there’s so many steps to get started. Paperwork. Wastes time by going down the list. Loses time because people aren’t ready when they say they are. Managing the small steps. Not enough automation set up. Message to claim spots/automation would be nice. Hard to get in touch with people. Time wasted from manual operations. 
+
+
+Comm to families on day 1 and have them prepared. Design videos, self-service things to parents. Every other week email or text triggered. Keep them engaged, in contact.
+
+
+Do you use any platforms or tools to manage workforce operations?  Current solutions
+No. Lumer is intake/scheduling/billing. Google sheets or smartsheets
+
+
+Used to use central reach and switched to Lumery, built on SF.
+* Can include:
+   * CRM
+   * ATS Recruiting System 
+   * Scheduling System 
+   * Accounting/Payroll system - quickbooks
+   * Excel Spreadsheets 
+   * Google Sheets
+   * Text or phone calls-yes
+   * Credentialing-yes
+
+
+Paylocity, ATS, nice to everything in one system. Was having to manually enter before. Links to indeed. Sometimes post on LI.
+For any technology you’re currently using to manage workforce operations; what was going on in your world that led you to consider that solution?  Struggle Moment
+Lumery- just transitioned in March. Biggest perks vs. central reach is that CR is a big system used in the field and is not customizable. Lumery is a young company that wants to create solutions, so everything is customizable. Can add and build. Automations.
+
+
+Paylocity because it was a good price point given number of perks that came with it. They can have surveys, training plat, ATS. One-stop shop. Decent solution, but prob won’t keep it forever.
+
+
+Quickbooks - pretty easy tool to work with, finds that it doesn’t serve all her needs as they grow.
+
+
+* Were you the only decision maker on implementing this solution? If not, who else was involved?
+Lumery - her, CEOs, VP of Ops, input from the clinical team. Thinks clinical and BD should have more input. Referrals are in Lumery as well. 
+How did you find that solution?  Discovery Habits
+Co-CEO - large prescese on LI and wanted him to be an advisor.
+Old VP did a bunch of demos, cost huge facor. 
+
+
+What, if anything, is frustrating about how you/your organization currently manage workforce operations?  Struggle Moment
+When she joined, it was mom and pop. Taking everything that has been manually and trying to automate. Takes a lot of money. Struggling to budget that out. Afford. Financial reporting.
+If they list solutions or software, ask if there’s anything frustrating about using the specific solutions?  Current Solution Pain Points
+Lumery focuses on operational pieces, sessions to billing, but not clinical note details. Simplistic when it comes to the clinical side. 
+
+
+Central reach - they didn’t want to pay for reporting feature. Room for human error. Recreate reports in Lumery.
+What is the name of this solution? Current Solution Pain Points
+Should have taken more time on the front end to research. DIdn’t realize it would take so long to create dashboards. Now is actively using them without dashboards. Now data blind. Lumery didn’t know either. 
+If you were to wave a magic wand, what would your ideal situation be for managing workforce operations?  Desired Outcomes
+Tool that could figure out capacity of each clinician, clients they can take, pull from waiting list based on location. Has to pull all the addresses. Figure out hours each client is using.
+What’s currently stopping you from achieving this ideal state?
+There is no program that exists today. There are tools, but not specific for autism services. Don’t have manpower right now. Makes it challenging to profitibility. Time and money. 
+Is there anything that’s missing from your current processes that you just haven’t been able to implement yet, but would like to?  Desired Outcomes
+Basic automations, triggered emails. Help with time. Triggered actions/messaging. Email with each state.
+
+
+
+
+Have you considered anything else to help you manage workforce operations?  Competing Alternatives
+Not yet. If she knew. 
+* If so, what were the solutions? 
+* What was going on that made you consider that?
+* How did you find them?
+
+
+
+
+
+
+When you want to learn more about your role or industry, where do you go?  Discovery Habits
+Google. Connect with other leaders. Colleagues in the field. Conferences usually every month on ABA. LI. Podcasts.
+What was the last software your team implemented?
+Lumery. 
+How did you find it?  Discovery Habits
+
+
+How did you make the decision internally to choose that software?   Buyer Decision-Making Habits
+Presented to leaders of the organization. Met with other companies to compare. 
+Who decided?  Buyer Decision-Making Habits
+CEO
