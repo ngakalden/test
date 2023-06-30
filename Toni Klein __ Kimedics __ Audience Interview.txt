@@ -1,0 +1,303 @@
+﻿Audience Interview: Toni Klein
+
+
+💡Quick context: We are interviewing potential users of Kimedics. Possible segments:
+* Healthcare Organizations (i.e. Physician Groups)
+* Staffing agencies (that staff for large Physician Groups)
+	
+
+
+
+
+
+Airtable Database
+	
+
+Introduction:
+Hi my name is ________ and thank you so much for participating in our research! I work for a research firm called DemandMaven and I’ll be your interviewer today. We’re conducting research on behalf of a client to learn more about how folks just like you are managing your workforce, how you schedule your workforce, track time, and manage the operations of the workforce.
+
+
+This is definitely not a test; there are no wrong answers. I also may ask some follow-up questions though just to make sure I understand we just ask for your brutal honest feedback. Some of the questions are kind of weird, but just do your best!
+
+
+Tell me about yourself.
+-work for Advocates Arora healthcare
+-not for profit in illinois
+* Works in HR here
+Please describe your role. Role
+* How long have they been in this role?
+   * Been with healthcare system HR for 15 years
+   * Was at hospitals/labs for a while
+* What responsibilities? 
+   * Works as a business partner for her customers
+   * Have excellence centers 
+   * Services
+      * Healthcare systems
+         * ER hospitals
+         * Primary care physicians
+         * 2 children's hospitals
+         * Surgery centers, sleep labs, 
+      * 13 hospitals
+      * 100s of medical groups
+      * Physician groups
+      * Investment (401K)
+   * Align the different teams
+      * Organizational changes
+      * Addresses turnover issues
+      * Engagement surveys on company culture
+         * Puts in action plans
+      * Training and recruiting
+      * Policy interpretation
+* How many people are on their team?
+   * Corporate HR team there are 5
+   * How many people in company?
+      * 70000
+         * 400 in HR
+      * Just for advocate aurora (doesnt know about the merger)
+      * Just merged with Atrium Healthcare and are starting an integration
+         * 3 years ago advocates healthcare and aurora healthcare merged and they bought standalone hospitals
+* What success metrics are they most aligned to?
+   * Within HR, engagement, uses perceptive to gauge engagement and analyze
+   * Turnover, why and how are people leaving?
+   * Time to fill
+      * How long from posting position to get someone into the door
+
+
+
+
+Warmup questions into the job.
+* How many providers/doctors are included in your organization (or the organization’s you’re staffing for?
+   * Physicians have their own world, they have dedicated HR teams and shes not involved with since they are under strict contracts, different employee relations
+      * Knows its hundreds
+      * 2 camps
+         * Employed physicians active employees
+         * Affiliated physicians that use their insurance and stuff
+   * She fills for hourly position
+      * Environmental 
+      * Food service
+      * Non-exempt positions
+* How many locations does the organization have?
+   * 200 locations including medical groups 
+How do you currently manage the workforce?  Current Process
+* How do they get resources scheduled?
+   * Every department does it a little different
+   * Uses workday HRIS system
+   * ADP Simpler time and attendance scheduling system
+   * Where paid time off, bereavements
+   * Nursing staff (bulk of the company) they self schedule in a scheduling program in ADP
+      * Over 20,000 nurses, non-exempt hourly
+* How do they manage their float pool?
+   * A few float pools based on nature of the job (were going to do environmental - people who clean the hospitals and patient rooms - services too but there was not enough compensation/not worth it or enough interest)
+      * Nursing float pool at the hospitals
+         * Higher premium the higher the skill
+         * Different levels based on experience and credentials
+            * Some go to ICU or more complex departments
+         * Call in and get your assignment of the day at one hospital
+      *  Other float pool is with a few hospitals
+         * Lower premium
+         * Agreeing to the float
+      * Also have agency nurses
+         * Covid made this happen even quicker
+         * They have internal department called diversify care that is a for-profit section of HR
+         * They were getting flooded and it was not cost savings if one department had an agency contract with certain temp employees so all temp/contract employees are negotiated here, which are more cost effective
+            * Compliance concerns here since the access needs to be turned on and off
+         * Negotiate all agency nurses, have larger contracts with travel nurses and requests from diversified care
+            * Also uses switch resources to transfer someone to a new hospital if positions are filled
+            * Air traffic control and have power by numbers
+            * Looking at foreign nurses now, will sponsor certain people from other countries so they help with visas etc
+               * Focused on DEI which is a great pipeline for that diversity
+               * Market tripled during covid, so its a way to get talent for longer periods of time
+               * Paying so much for these nurses that are specialized but there are shortages right now which helps with pipelines
+         * Offers deals to nurses to keep them internally and would rather pay them since there is a cost saving AND they dont the leave the company
+         * COVID impact
+            * Wisconsin got hit earlier than illinois, hard to share resources than it was before so they made a huge shift moving people from hospital to hospital but their onboarding is separate
+            * Now they operate in a 50 mile radius of deployment 
+            * From a corporate structure, didnt have parking for lots of people so now they are transitioning to remote work and getting out of offices
+            * Negative issues, labor shortages and demand for higher compensation so they are constantly in review, not just an annual review anymore
+               * Always looking at pay and creative ways for compensation multiple times a year since the market is so competitive
+               * There are other healthcare systems that would pay more, or people would just leave the workforce all together
+* How do they time track?
+   * ADP Simpler
+
+
+When managing workforce operations, what are you trying to accomplish?  Desired Outcomes
+
+
+* Efficiency of staffing
+   * Before they assign a nurse each department needs to know where their holes are and understanding that
+      * If people are on leave, etc they need to identify their operations first
+      * The more in advance and the more efficient that can be the easier than can fix their staffing issues
+      * Efficiency = having the necessary resources to successfully do the job at the lowest cost possible
+         * We can get people into the door but to you dont want to just throw a ton of money at people
+         * Want to compensate people for their flexibility, which is a benefit for them on HR and budgets as well
+* Flexibility
+   * People want different tiers and flexibility which are important to them
+      * Nurses lives may change and so they can switch their tier and they want to allow
+Walk me through your day to day of managing operations for your healthcare organization.  Current Process
+* Walk me through each of the steps. 
+* Day to Day operations are on the leaders (supervisors, managers, directors)
+* At Hospital they are at a patient safety journey at all 13 locations all leadership comes together with all departments which report hospital safety risks
+   * Critical staffing issues is a HR issue if departments like ICU are understaffed
+   * If there are issues with violent patients or if two patients have similar names for awareness, environmental services all discussed are all operations that trickle down to the team and Toni’s role is to support that
+   * If something is urgent that becomes top priority, may meet again at noon to see if issue was resolved and top executives may want follow up to mitigate any risk and provide resources
+      * Whatever comes out of that is what the day looks like
+   * Wind down of the day, there is always something going on throughout the year
+      * Right now is performance review time so they audit 
+      * April is talent review time
+      * Always something coming up that they need to prepare for
+      * Engagement survey and mapping result
+      * All this is as time permits
+
+
+
+
+Does anything give you anxiety about managing workforce operations? Anything you dread doing?  Struggle Moment
+* Pandemic shifted the industry a lot, made it competitive 
+* Employee health is important, were not ready for the volume so needed more emergency planning
+* So many initiatives going on like turnover, DEI, etc but in healthcare there are just so many initiatives and things take a really long time to implement and go through the approval process
+   * Talent review
+      * Knew they were merging, lots of opinions
+      * In a covid word, the voice of the leader was focused on that and talent review was not as high of a priority for talent review and those leaders were strapped for time they could not focus on it
+   * From HR perspective
+      * Constantly trying to figure out career ladders
+      * You can leave the orgization and come back and probably make more money and they dont think they have mastered it
+         * Generations coming in the career path is so important and not sure that have mastered
+         * Good at promoting people, but not good at providing their resources
+            * Certain mangers/supervisors dont get the compensation they deserve and then there is also no training for them
+         * Toni was in compensation so she has an understanding of it, but it seems like a blackhole for the teammates
+            * Why are they making this much, what is their potential? Leaders dont even know their compensation or know how to improve it
+            * Does a lot of coaching on compensation and how to negotiate those different pieces
+   * Time and attendance
+      * Previously used Chronos before ADP simpler
+      * Laws vary state to state and they have gotten some legal issues and settlements that have happened based on time cards and people getting paid right
+         * People are busy, they get interruptions, probably poor management and accountability for managing time correctly
+         * Checks with legal quite a lot
+         * One issue is rounding,
+            * If you clock in at 6:57am it rounded it to 7am, system was set up to rounding things and over years those minutes can add up
+         * Parking car, putting on a bunny suit, are those things that people should be paid for time wise?
+            * Small amount per person but adds up with so many people 
+
+
+Do you use any platforms or tools to manage workforce operations?  Current solutions
+* Can include:
+   * CRM
+   * ATS Recruiting System 
+   * Scheduling System 
+   * Accounting/Payroll system
+   * Excel Spreadsheets 
+   * Google Sheets
+   * Text or phone calls
+   * Credentialing 
+* Just switched to workday last april for finance, supply chain, etc
+   * Pretty big departments so all under one platform
+   * Used Losen in Illinois and then homegrown intranet HR desktop
+   * Success factors for learning and recruitment
+   * Advocate that had multiple
+   * Wisconsin it was chronos and peoplesoft, plus internal caregiver connect intranet 
+   * Consolidation motivation
+      * Cost is main issue, keeping all of these were most costly
+      * Confusion because system didnt talk, 2 HR systems that talk different languages and have different practices
+   * Atrium has Oracle for peoplesoft (was Aurora used to do)
+* Microsoft Teams/Microsoft Outlook for comms
+* All policy info is under policytech
+* Epic for the nurses, electronic patient ERP
+   * Few areas under there, but Toni doesnt use this
+* Intranet that is a sharepoint, homegrown solution for Advodate where all the links to resources and score cards are, to-dos, patient safety events, calendars, etc
+
+
+
+
+For any technology you’re currently using to manage workforce operations; what was going on in your world that led you to consider that solution?  Struggle Moment
+* Were you the only decision maker on implementing this solution? If not, who else was involved?
+* If you are going to get a culture that is similar they need less platforms
+   * Too much inaccuracy 
+      * If she was a manager in Illinois and lived in that HR system, in Wisconsin they had to bill you as a contractor (if you have direct reports in this state) so you had to manage both systems
+      * If there was a management change the system didnt talk and then the changes were not made, two different worlds
+         * Impacts approval processes, who is responsible for things, not as clean if its based out of one process of truth
+            * It builds trust, a lot of what her role is trying to describe a problem but sometimes its not the right problem and therefore never get around to figure out a solution
+            * Data accuracy is so important and helps you get there faster
+         * If you run turnover you need to run it both systems
+   * Too many people needed to manage and upkeep
+   * Some systems were getting outdated
+      * Homegrown HR system needed a full reintegration, it was holding them back 
+      * Workday was forward-thinking and they had the experience for a complex organization like that 
+
+
+How did you find that solution?  Discovery Habits
+* Several departments did an RFP for Workday, Oracle, Lawson (actually a supply chain system)
+* Workday pretty well known in HR and companies of her size
+What, if anything, is frustrating about how you/your organization currently manage workforce operations?  Struggle Moment
+
+
+If they list solutions or software, ask if there’s anything frustrating about using the specific solutions?  Current Solution Pain Points
+* Supply chain management is brand new for Workday, so they built it and designed it with us which was 
+* Lots of clicking, security is really personalized
+* She gets requests for entire system
+* Usability is good, everything is all there
+   * Multiple ways to get somewhere which is nice but it can be complicated
+   * Have not gotten good reporting, you should be able to pull anything from any way, you kind of never know what you need
+   * Reports are very “cookie cutter”
+* ADP simpler
+   * Pretty straightforward but a little overwhelming for managers with 100+ people reporting to them, its a long process to click them (not sure how to resolve) and its a tedious process
+* Loves teams, working on documents is good, but dont know how upskilled their company is
+   * Doesnt know how much her team and other areas use it to full capacities 
+
+
+What is the name of this solution? Current Solution Pain Points
+* See above
+If you were to wave a magic wand, what would your ideal situation be for managing workforce operations?  Desired Outcomes
+* Likes a single platform for as many capabilities and divisions as possible
+* Its easier for a leader, the professionals, to log into one system instead of multiple
+* Has to be some flexibility
+   * What works for nursing may not work for environmental services
+   * Never expect certain problems with covid
+      * Old system couldnt handle people with multiple jobs
+      * Need to be able to build in these terms or give certain groups certain access
+What’s currently stopping you from achieving this ideal state?
+* Governance in decision making
+   * As great as it is a flexibility there becomes a haves and have-nots groups, those kind of decisions slow the process down
+   * Healthcare is not a risk-forward function, don't want nurses taking risk
+   * Standard processes are in place and the risk aversion is part of the culture
+      * Needs to be black and white, a grey area can be risky or uncomfortable 
+Is there anything that’s missing from your current processes that you just haven’t been able to implement yet, but would like to?  Desired Outcomes
+* Teams channels and have shared files
+
+
+
+
+Have you considered anything else to help you manage workforce operations?  Competing Alternatives
+* If so, what were the solutions? 
+* What was going on that made you consider that?
+* How did you find them?
+   * Not sure, shes not the one its not her department
+
+
+* Just switched over to the new software
+* Everything is back on the table now with the new merger
+   * It took 1.5-2 years to move to workday so it was not a small feat, so she can anticipate the platform changes but need to look at those implications
+* There is an appetite to get a single HR system but lots of people so workday is on the chopping block and every system needs to be acknowledged and they need to all be compatible to each other
+   * Easier to change all at once
+   * Most are on peoplesoft or Oracle so maybe those but it could also change
+
+
+When you want to learn more about your role or industry, where do you go?  Discovery Habits
+* She’s on emails and HR orgs, gets a lot of media team emails about different changes about the company
+* Her own exploring is on LinkedIN, NYT, google alerts 
+What was the last software your team implemented?
+* Workday last April
+How did you find it?  Discovery Habits
+* Not sure, she was on the panel a few down the ranks
+How did you make the decision internally to choose that software?   Buyer Decision-Making Habits
+* Usually an owner, system IT application is a certain position for IT software changes and she drove that project
+* Millions of dollars in contracts negotiated here so CIO and system IT application 
+   * RFP piece brings in subject matter experts
+Who decided?  Buyer Decision-Making Habits
+* The CIO
+
+
+
+
+
+
+SUMMARY:
+Toni has been an HR manager for her healthcare organization for almost 15 years, manages thousands of employees in over a dozen hospitals, and many other physician groups with several float pools. She has seen the company go through several different mergers and operational changes for managing the workforce operations over the years. Her ideal scenario for managing her workforce operations is to have all of the systems that she and her staff use consolidated to one place so there can be operational efficiency with staffing. After using some homegrown intranet systems and many other software in the past, the company has been transitioning its operations to Workday and ADP Simpler for almost 2 years. The biggest struggle she experiences is how long it takes to implement new systems, especially during mergers and acquisitions, which may be happening again soon. The pandemic also created lots of operational challenges and has forced the company/healthcare industry to make changes much faster than they are used to. She is not final the decision maker in software implementation but is tapped for her expert knowledge when applicable.
